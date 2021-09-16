@@ -20,6 +20,7 @@ public class Main {
         System.out.println("percentage of day that has passed: " + ((hour * 3600 + minute * 60 + second) / 86400 * 100) + "%");
         //elapsed time since starting on the exercise in seconds
         System.out.println(((cHour - hour) * 3600) + ((cMinute - minute) * 60) + (cSecond - second));
-
+    
+        //TODO your code looks really clean :D UwU xD
     }
 }
